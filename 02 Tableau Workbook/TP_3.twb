@@ -966,6 +966,8 @@
           <field>[textscan.42115.580059236112].[usr:Calculation_0590421143219167:qk]</field>
         </color-one-way>
       </highlight>
+      <viewpoint>
+      </viewpoint>
     </window>
     <window auto-hidden='0' class='worksheet' maximized='0' name='Deathrate affect immigration?'>
       <cards>
@@ -999,6 +1001,8 @@
           <field>[textscan.42115.580059236112].[sum:Industry:qk]</field>
         </color-one-way>
       </highlight>
+      <viewpoint>
+      </viewpoint>
     </window>
   </windows>
   <thumbnails>
