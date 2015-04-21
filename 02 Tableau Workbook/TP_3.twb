@@ -583,6 +583,8 @@
           <field>[textscan.42115.580059236112].[none:Country:nk]</field>
         </color-one-way>
       </highlight>
+      <viewpoint>
+      </viewpoint>
     </window>
     <window auto-hidden='0' class='worksheet' maximized='1' name='Sheet 2'>
       <cards>
@@ -607,6 +609,8 @@
           <field>[textscan.42115.580059236112].[none:Region:nk]</field>
         </color-one-way>
       </highlight>
+      <viewpoint>
+      </viewpoint>
     </window>
   </windows>
   <thumbnails>
