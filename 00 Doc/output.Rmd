@@ -1,0 +1,35 @@
+---
+title: "output"
+author: "Willie, Leo, Lauren"
+date: "Wednesday, April 22, 2015"
+output: html_document
+---
+
+we have two data sets related by region and country.  They contain information on a country's statistics whether it be business or agriculturely related.
+
+Columns: Region
+Rows: Population
+Filtered by region and marked by birthrate
+
+We wanted to see the relationship between a population of countries grouped by region and included birthrate.
+
+![](./RelationbetweenPopulationandBirthrateamongdifferentRegions.jpg)      
+
+With tableau and with the nature of our data set of world data, we wanted to utilize tableau's map function and show population density.
+
+Marks include: Population growth, countryr, population density
+
+![](./Populationdensity.jpg)      
+
+GDP is good indicator of how productive and prosperous a country's economy is. We were curious of the relationship between a country's population and GDP. 
+
+Columns: sum(population)
+Rows: country
+Marks: AGG(Population growth) and sum(GDP)
+
+![](./DoesGDPaffectpopulationgrowth.jpg)      
+
+A relationship with deathrate and immigration. Correlation doesn't necesssarily mean causation.
+
+![](./Deathrateaffectimmigration.jpg)      
+
